@@ -48,7 +48,7 @@ Retained only necessary columns (Email_Text and Category) for initial exploratio
 4.  Exploring Email Characteristics
    
 # 3.Data Processing:
-    Data preprocessing is a crucial step in any data science or machine learning pipeline. It involves cleaning,
+Data preprocessing is a crucial step in any data science or machine learning pipeline. It involves cleaning,
 transforming, and preparing raw data for analysis or modeling. In this project, we focus on preprocessing text
 data for spam classification. Let me walk you through the details of this process, including the libraries used,
 the logic implemented, and how visualizations help us understand the dataset.
